@@ -1,0 +1,13 @@
+{
+    "cognito" : {
+        "REGION": "ap-southeast-2",
+        "USER_POOL_ID": "ap-southeast-2_KeBoViRDy",
+        "APP_CLIENT_ID": "3bgm9kjsrak4luhhv4p04e02pj"
+    },
+    "cloudfront" : {
+        "invokeUrl": "http://d12nxej3n1xwb5.cloudfront.net/photos/"
+    },
+    "api": {
+        "invokeUrl": "https://gxx76cgha4.execute-api.ap-southeast-2.amazonaws.com/prod-2"
+    }
+}
